@@ -1,6 +1,5 @@
 import requests
 import re
-from time import sleep
 from bs4 import BeautifulSoup
 
 
